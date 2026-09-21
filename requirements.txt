@@ -1,0 +1,2 @@
+# 唯一外部依赖：playwright（仅用其 CDP client 连接系统 Chrome，无需 `playwright install` 下载浏览器）
+playwright>=1.40

@@ -1,0 +1,18 @@
+# 登录态/隐私数据 —— 绝不提交
+x-profile/
+logs/
+shots/
+shots_*/
+inbox_scan.json
+thread.json
+thread.json.bak
+queries.txt
+reply-candidates-*.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS
+.DS_Store
