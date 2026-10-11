@@ -1,3 +1,5 @@
+> **⚠️ 已停止维护（2026-10-11）**：本仓库的 X 渠道能力已完整并入 [marketing-ops-automation](https://github.com/roy-tong/marketing-ops-automation) —— 多渠道（X / Email / Reddit / LinkedIn / GitHub）统一执行内核，其 X 渠道即 vendor 自本仓库，且新增门禁/节流/回读校验/账本等写路径事务管道。请改用 marketing-ops-automation，本仓库仅作历史留档（archived）。
+
 # x-ops-automation
 
 X（Twitter）自有账号运营自动化工具集：发布线程、搜索候选、回复、关注、点赞、私信（DM）。
